@@ -8,4 +8,6 @@ Sou desenvolvedor Front-end, com conhecimento em tecnologias como ReactJS, React
 
 E busco conhecimento necessário para me tornar um Full-Stack!
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edurodrigues0&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edurodrigues0&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
