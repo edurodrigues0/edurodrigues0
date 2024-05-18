@@ -15,9 +15,11 @@
   <a href="https://github.com/edurodrigues0">
     <img alt="Eduardo Rodrigues Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=edurodrigues0&langs_count=6&layout=compact&theme=react&border_color=254668&bg_color=0D1117&title_color=1082a7&icon_color=F8D866" height="200px" width="49.5%"/>
   </a>
+    <br />
   <a href="https://github.com/edurodrigues0">
     <img alt="Eduardo Rodrigues Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=edurodrigues0&show_icons=true&count_private=true&theme=react&border_color=254668&bg_color=0D1117&title_color=1082a7&icon_color=1082a7" height="200px" width="49.5%"/>
   </a>
+
 </a>
 
 
