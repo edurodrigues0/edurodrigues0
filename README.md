@@ -7,7 +7,7 @@
 
 ### About me
 - 💻 I'm Full Stack developer
-- 🔧 JavaScript | Node | React
+- 🔧 React.JS | Next.JS | React Native | Node.JS | Nest.JS | Typescript | Javascript | HTML | CSS
 - 📝 I`m graduated in Science of Computer
 - 💙 Love to writing code and learning new features
 
