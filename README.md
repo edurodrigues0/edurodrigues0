@@ -7,7 +7,7 @@
 
 ### About me
 - 💻 I'm Full Stack developer
-- 🔧 React.JS | Next.JS | React Native | Node.JS | Nest.JS | Typescript | Javascript | HTML | CSS
+- 🔧 Golang | React.JS | Next.JS | React Native | Node.JS | Nest.JS | Typescript | Javascript | HTML | CSS
 - 📝 I`m graduated in Science of Computer
 - 💙 Love to writing code and learning new features
 
@@ -25,6 +25,7 @@
 
 #### Languages and tools:
 
+![Golang](https://img.shields.io/badge/Go-08667E?style=for-the-badge&labelColor=black&logo=go&logoColor=08667E)
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
