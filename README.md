@@ -1,4 +1,4 @@
-﻿# Hi, I`m Eduardo Rodrigues! 
+﻿# Hi, I'm Eduardo Rodrigues! 
 [![Gmail Badge](https://img.shields.io/badge/Website-1082a7?style=for-the-badge&logo=medium&logoColor=white)]((https://eduardo-rodrigues-portfolio.vercel.app/))
 [![Linkedin Badge](https://img.shields.io/badge/Eduardo%20Rodrigues-1082a7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-rodrigues-93b66518a/)
 [![Gmail Badge](https://img.shields.io/badge/edurodriguesdev1@gmail.com-1082a7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edurodriguesdev1@gmail.com)
